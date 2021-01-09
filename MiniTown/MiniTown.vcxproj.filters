@@ -172,4 +172,9 @@
       <UniqueIdentifier>{7611a403-bce5-4f88-ae4d-eb1f78d4439a}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\..\新建文本文档.txt">
+      <Filter>Source</Filter>
+    </Text>
+  </ItemGroup>
 </Project>

@@ -19,6 +19,5 @@ int WINAPI WinMain(_In_ HINSTANCE hInstance, _In_opt_ HINSTANCE prevInstance,
 	
 	if( !theApp.Init() )
 		return 0;
-	
-	return theApp.Run();
+		return theApp.Run();
 }
